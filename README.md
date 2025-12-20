@@ -204,6 +204,10 @@ PyTorch 是由 Facebook AI Research 在 2016 年推出的 Python 深度學習框
 <img width="591" height="248" alt="image" src="https://github.com/user-attachments/assets/ed6f0b0e-44b0-4d94-aeb5-66075c99c2a9" />
 
 
+- 運算環境
+  
+  <img width="445" height="186" alt="image" src="https://github.com/user-attachments/assets/2aa94047-31a7-414a-a926-092f906cc4f8" />
+
 - `.pt`
 - 僅用於訓練 / 評估
 - **不能部署到 MCU**
