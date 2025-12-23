@@ -196,6 +196,14 @@ m_postprocessor =
 
 ## 六、模型檔案的生命週期（非常重要）
 
+### 6.0 模型數據源
+```
+https://universe.roboflow.com/
+```
+
+<img width="760" height="421" alt="image" src="https://github.com/user-attachments/assets/8e951fa2-a9f0-47fc-99ca-3c4a4a4eb4f2" />
+
+
 ### 6.1 訓練階段模型（PyTorch）
 PyTorch 是由 Facebook AI Research 在 2016 年推出的 Python 深度學習框架，以動態計算圖為核心，先征服學術界，再完成工業化，現在已是全球 AI 的基礎設施之一。
 
